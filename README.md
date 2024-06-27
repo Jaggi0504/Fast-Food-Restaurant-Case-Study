@@ -9,3 +9,6 @@ I worked on jupyter notebook and used Python for data analysis and creating grap
 3. Busiest hours and day of the week.
 
 I worked on MS Excel and later on created a dashboard in Power BI.
+
+
+<img width="1224" alt="power bi dashboard" src="https://github.com/Jaggi0504/Fast-Food-Restaurant-Case-Study/assets/44519331/e24c796d-4413-4cde-aa9e-74aae73787f1">
